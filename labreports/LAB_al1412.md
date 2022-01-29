@@ -90,8 +90,33 @@ In this section, provide the logs from *Step 2.7* and *Step 6.4*.
 `3080719 typo in readme`   
 `33efb41 formatted template`   
 `fd13d03 initial draft`  
-`ad87871 Create License`
+`ad87871 Create License`    
 
+
+***Step 6.4 Git Log***    
+`8164428 (HEAD -> main, origin/labreport, labreport) Section 1 started`    
+`8335824 Update LAB_al1412.md`    
+`d1f0857 Added more requirements`    
+`b8d840b More requirements added`    
+`dbdb68a More requirements added`    
+`9857dca Started requirements`    
+`08628c2 Update LAB_al1412.md`    
+`afebeca Syntax fixed`    
+`e796926 Fixed syntax`    
+`6397892 Update LAB_al1412.md`
+`1da676f Update LAB_al1412.md`
+`4f18e18 Update LAB_al1412.md`
+`ae2b0cb (origin/main, origin/HEAD) Added diagram`    
+`e86a120 Formatting errors fixed`    
+`36a5118 Added Git log for step 2.7`    
+`58144f6 Update LAB_al1412.md`    
+`31b90a8 Update LAB_al1412.md`    
+`22497ee Small update at top`    
+`5816eee Merge branch 'main' of https://github.com/al1412/cis411_lab0_req`    
+`c5e7e27 Lab report is located here @trevordbunch`    
+`bf0f87a your commit and reference @trevordbunch in the message`    
+`50d40f8 (upstream/main) Update references to main branch`    
+`ef962b1 Fix links in resource area`    
 
 
 Hint: for system output, use markdown's fenced code block for formatting.
